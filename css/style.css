@@ -1,0 +1,42 @@
+#rectangle-red {
+    height: 500px;
+    width: 250px;
+    background-color: red;
+    border: solid black 2px;
+}
+#rectangle-green {
+    height: 500px;
+    width: 250px;
+    background-color: green;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+    border: solid black 2px;
+}
+#rectangle-blue {
+    height: 500px;
+    width: 250px;
+    background-color: blue;
+    position: relative;
+    left: 600px;
+    bottom: 1000px;
+    border: solid black 2px;
+}
+#rectangle-purple {
+    height: 500px;
+    width: 250px;
+    background-color: purple;
+    position: relative;
+    left: 900px;
+    bottom: 1500px;
+    border: solid black 2px;
+}
+
+#frame {
+padding-top: 45px;
+padding-left: 50px;
+    width: 1170px;
+    height: 550px;
+    background-color: rgb(231, 231, 13);
+    border: solid black 2px;
+}
