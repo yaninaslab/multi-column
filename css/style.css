@@ -2,7 +2,7 @@
     height: 500px;
     width: 250px;
     background-color: red;
-    border: solid black 2px;
+    border: solid black 1px;
 }
 #rectangle-green {
     height: 500px;
@@ -11,7 +11,7 @@
     position: relative;
     left: 300px;
     bottom: 500px;
-    border: solid black 2px;
+    border: solid black 1px;
 }
 #rectangle-blue {
     height: 500px;
@@ -20,7 +20,7 @@
     position: relative;
     left: 600px;
     bottom: 1000px;
-    border: solid black 2px;
+    border: solid black 1px;
 }
 #rectangle-purple {
     height: 500px;
@@ -29,11 +29,11 @@
     position: relative;
     left: 900px;
     bottom: 1500px;
-    border: solid black 2px;
+    border: solid black 1px;
 }
 
 #frame {
-padding-top: 45px;
+padding-top: 50px;
 padding-left: 50px;
     width: 1170px;
     height: 550px;
