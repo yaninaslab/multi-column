@@ -36,7 +36,23 @@
 padding-top: 50px;
 padding-left: 50px;
     width: 1170px;
-    height: 550px;
+    height: 650px;
     background-color: rgb(231, 231, 13);
     border: solid black 2px;
+}
+#title {
+    position: absolute;
+    top: 600px;
+    width: 60%;
+    margin-left: 20%;
+    margin-left: 20%;
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+h2 {
+    display: block;
+}
+h2:hover {
+    color: rgb(224, 89, 26);
 }
